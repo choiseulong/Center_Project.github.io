@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h1 {
+    text-align: center;
+    text-size-adjust : 150%;
+}
+.container{
+    margin-top : 50px;
+    font-family: 'Jua', sans-serif; font-size : 130%;
+}
+.serviceF {
+    font-size: 130%;
+    margin : auto;
+}
+p.white {
+    font-family: 'Jua', sans-serif; font-size : 150%;
+    background-color: #0B94EF;
+    color : white;
+    margin-left : 100px;
+    margin-right : 100px;
+    padding : 20px;
+    border-radius: 5%;
+}
+h5{
+    font-size: 200%;
+}
+.card-title {
+    text-align: center;
+    font-family: 'Jua', sans-serif; font-size : 130%;
+}
+.showalgumon {
+    text-align: center;
+}
+#button {
+    margin-bottom : 20px;
+}
+#we {
+    margin-left : 100px;
+    margin-right : 100px;
+}
+#we1 {
+    margin-left : 450px;
+    margin-right : 450px;
+}
